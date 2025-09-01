@@ -1,12 +1,3 @@
-Got it 👍 Since your project is **LearnHub (Java Swing + MySQL)**, I’ll draft a professional **README.md** that looks great on GitHub and includes placeholders for 7 screenshots.
-
-You’ll only need to replace the `![Screenshot X](path/to/screenshot.png)` with the correct relative paths (e.g., `screenshots/login.png`) once you upload your images to your repo.
-
----
-
-Here’s the `README.md` 👇
-
-```markdown
 # LearnHub - Java Swing Project
 
 ![LearnHub Banner](screenshots/banner.png)
@@ -66,7 +57,7 @@ It aims to connect students and trainers by offering:
 ---
 
 ## 📂 Project Structure
-```
+
 
 LearnHub/
 ├── src/               # Java source files
@@ -76,7 +67,7 @@ LearnHub/
 ├── README.md
 └── LearnHub.jar       # Packaged application (optional)
 
-````
+
 
 ---
 
@@ -85,7 +76,7 @@ LearnHub/
    ```bash
    git clone https://github.com/your-username/LearnHub-Java.git
    cd LearnHub-Java
-````
+
 
 2. Add **MySQL Connector JAR** to your classpath.
 3. Create a MySQL database and import your schema.
@@ -102,18 +93,10 @@ LearnHub/
 ## 👨‍💻 Authors
 
 * **Montassar Braiek**
-* **Yassin Mlayeh**
-  Supervised by **Professor Leila Hadded**
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+Montassar Braiek 2024.
 
-```
-
----
-
-👉 Do you want me to also **generate a `screenshots/` folder structure and sample placeholder images** (so your repo looks professional before adding real screenshots), or do you already have real screenshots ready?
-```
