@@ -1,0 +1,19 @@
+ Libraries Used
+javax.swing
+
+Purpose: To create and manage the graphical user interface (GUI).
+Examples: Frames, buttons, labels, panels, and other UI components.
+java.awt
+
+Purpose: To handle graphics, layouts, and custom shapes.
+Examples: Layout managers, colors, fonts, and event handling.
+javax.sound.sampled
+
+Purpose: To manage and play audio files.
+Examples: Loading and playing .wav files.
+java.io.File
+
+Purpose: To handle file operations.
+Examples: Managing file paths for audio or resources.
+java.sql
+
