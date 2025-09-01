@@ -33,7 +33,7 @@ It aims to connect students and trainers by offering:
 ### 3️⃣ 
 ![Screenshot 3](screenshots/Screenshot3.png)
 
-### 4️⃣ Add Formation (Trainer)
+### 4️⃣ Add Formation (admin)
 ![Screenshot 4](screenshots/Screenshot4.png)
 
 ### 5️⃣ 
