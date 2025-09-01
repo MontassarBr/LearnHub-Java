@@ -27,22 +27,22 @@ It aims to connect students and trainers by offering:
 ### 1️⃣ Login Page
 ![Screenshot 1](screenshots/Screenshot1.png)
 
-### 2️⃣ Home Page with Sidebar
+### 2️⃣ Regestration page
 ![Screenshot 2](screenshots/Screenshot2.png)
 
-### 3️⃣ Browse Formations
+### 3️⃣ 
 ![Screenshot 3](screenshots/Screenshot3.png)
 
 ### 4️⃣ Add Formation (Trainer)
 ![Screenshot 4](screenshots/Screenshot4.png)
 
-### 5️⃣ Admin – User Management
+### 5️⃣ 
 ![Screenshot 5](screenshots/Screenshot5.png)
 
-### 6️⃣ Student Registration Page
+### 6️⃣ 
 ![Screenshot 6](screenshots/Screenshot6.png)
 
-### 7️⃣ Application Overview
+### 7️⃣ 
 ![Screenshot 7](screenshots/Screenshot7.png)
 
 ---
