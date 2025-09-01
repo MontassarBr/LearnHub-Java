@@ -25,25 +25,25 @@ It aims to connect students and trainers by offering:
 ## 🖼️ Screenshots
 
 ### 1️⃣ Login Page
-![Login Screenshot](screenshots/login.png)
+![Screenshot 1](screenshots/screenshot1.png)
 
 ### 2️⃣ Home Page with Sidebar
-![Home Screenshot](screenshots/home.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ### 3️⃣ Browse Formations
-![Browse Screenshot](screenshots/browse.png)
+![Screenshot 3](screenshots/screenshot3.png)
 
 ### 4️⃣ Add Formation (Trainer)
-![Add Formation Screenshot](screenshots/add-formation.png)
+![Screenshot 4](screenshots/screenshot4.png)
 
 ### 5️⃣ Admin – User Management
-![Admin Screenshot](screenshots/admin.png)
+![Screenshot 5](screenshots/screenshot5.png)
 
 ### 6️⃣ Student Registration Page
-![Student Screenshot](screenshots/student.png)
+![Screenshot 6](screenshots/screenshot6.png)
 
 ### 7️⃣ Application Overview
-![Overview Screenshot](screenshots/overview.png)
+![Screenshot 7](screenshots/screenshot7.png)
 
 ---
 
@@ -56,20 +56,6 @@ It aims to connect students and trainers by offering:
 
 ---
 
-## 📂 Project Structure
-
-
-LearnHub/
-├── src/               # Java source files
-├── lib/               # External libraries (e.g., MySQL Connector JAR)
-├── screenshots/       # Project screenshots
-├── .gitignore
-├── README.md
-└── LearnHub.jar       # Packaged application (optional)
-
-
-
----
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
